@@ -1,5 +1,3 @@
-# guessing-game-cli-
-“My original command-line number guessing game in Python”
 # Number Guessing Game (CLI Version)
 
 This is my original command-line number guessing game written in Python.
