@@ -12,4 +12,4 @@ This is my original command-line number guessing game written in Python.
 
 ## How to Run
 ```bash
-python guessing_game.py
+python guessgame.py
